@@ -126,5 +126,4 @@ document.addEventListener("DOMContentLoaded", () => {
     window.addEventListener("scroll", updateActiveLink);
 
     updateActiveLink();
-
 });
